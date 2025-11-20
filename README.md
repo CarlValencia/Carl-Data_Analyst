@@ -1,7 +1,7 @@
 # C
 ### Data Analysis Projects and Portfolio
 
-#### **A) Global Electronics Retailers Dataset
+#### **A) [Global Electronics Retailers Dataset](/GE)**
 - Source: [Kaggle](https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailers)
 1) Preparation 
 	- Basic Data Cleaning/ Validation (Excel)
