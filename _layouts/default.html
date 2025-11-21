@@ -19,13 +19,12 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">Carl Harie Jesus I. Valencia</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
       {% if site.show_downloads %}
         <a href="/assets/Valencia, Carl.pdf" class="btn" download>Download Resume</a>
         <a href="https://www.linkedin.com/in/carl-harie-valencia" class="btn">LinkedIn</a>
-        
+      {% endif %}
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
     </header>
 
