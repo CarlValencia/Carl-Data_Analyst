@@ -23,13 +23,13 @@ Excel | PostgreSQL | Power BI
 4. Insights/ Recommendations  
 
 
-#### **B) [SaaS Sales Dataset](/SaaS-Sales)**
+#### **B) [SaaS Sales Dataset](/SaaS Sales)**
 - Source: [Kaggle](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales)  
 
-#### **C) [Customer Subscription Dataset](/customer-subscription)**
+#### **C) [Customer Subscription Dataset](/customer subscription)**
 - Source: [Kaggle](https://www.kaggle.com/datasets/gsagar12/dspp1/data)  
 
-#### **D) [Sales Prediction Dataset](/Sales-prediction)**
+#### **D) [Sales Prediction Dataset](/Sales prediction)**
 - Source: [Kaggle](https://www.kaggle.com/datasets/mohdshahnawazaadil/sales-prediction-dataset)  
 
 
