@@ -11,12 +11,15 @@ Excel | PostgreSQL | Power BI
 #### **A) [Global Electronics Retailers Dataset](/GE)**
 - Source: [Kaggle](https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailers)  
 1. Preparation  
-	- Basic Data Cleaning/ Validation (Excel)  
+	- Basic Data cleaning/ validation (Excel)  
 		> Performed data cleaning and validation, including fixing formats for data types, removing duplicates, and identifying anomalies. This ensured high-quality, consistent data for loading into PostgreSQL and reduced errors during analysis and reporting. 
 
-	- Data Prep/ Loading (DBeaver & PostgreSQL)  
-		> Used DBeaver for mapping data types and batch insertion of tables.  
+	![Data Cleaning image](/GE/1.png)
 
+	- Data prep & loading (DBeaver & PostgreSQL)  
+		> Mapped data types and batch-inserted tables into PostgreSQL using DBeaver, preparing the dataset for downstream analysis.   
+
+	![Data Cleaning image](/GE/2.png)
 
 2. Descriptive Analysis  
 3. Diagnostic Analysis  
