@@ -2,15 +2,15 @@
 Excel | PostgreSQL | Power BI  
 
 ### *Projects*  
-- [Global Electronics Retailers](#a-global-electronics-retailers-dataset)  
-- [SaaS Sales](#b-saas-sales-dataset) (In progress)   
-- [Customer Subscription](#c-customer-subscription-dataset) (In progress)    
-- [Sales Prediction](#d-sales-prediction-dataset) (In progress)  
+- [Global Electronics Retailers](#a-global-electronics-retailers-dataset-kaggle)  
+- [SaaS Sales](#b-saas-sales-dataset-kaggle) (In progress)   
+- [Customer Subscription](#c-customer-subscription-dataset-kaggle) (In progress)    
+- [Sales Prediction](#d-sales-prediction-dataset-kaggle) (In progress)  
 
 
-#### **A) [Global Electronics Retailers Dataset](/GE)**
-- Source: [Kaggle](https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailers)  
-1. Preparation  
+#### **A. [Global Electronics Retailers Dataset](/GE)** *([Kaggle](https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailers))*  
+
+**1. Preparation**
 	- Basic Data cleaning/ validation (Excel)  
 		> Performed data cleaning and validation, including fixing formats for data types, removing duplicates, and identifying anomalies. This ensured high-quality, consistent data for loading into PostgreSQL and reduced errors during analysis and reporting. 
 
@@ -21,18 +21,15 @@ Excel | PostgreSQL | Power BI
 
 	![Data Cleaning image](/GE/2.png)
 
-2. Descriptive Analysis  
-3. Diagnostic Analysis  
-4. Insights/ Recommendations  
+**2. Descriptive Analysis**  
+**3. Diagnostic Analysis**  
+**4. Insights/ Recommendations**  
 
 
-#### **B) [SaaS Sales Dataset](/SaaS-Sales)**
-- Source: [Kaggle](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales)  
+#### **B) [SaaS Sales Dataset](/SaaS-Sales)** *([Kaggle](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales))*  
 
-#### **C) [Customer Subscription Dataset](/Customer-Subscription)**
-- Source: [Kaggle](https://www.kaggle.com/datasets/gsagar12/dspp1/data)  
+#### **C) [Customer Subscription Dataset](/Customer-Subscription)** *([Kaggle](https://www.kaggle.com/datasets/gsagar12/dspp1/data))*  
 
-#### **D) [Sales Prediction Dataset](/Sales-Prediction)**
-- Source: [Kaggle](https://www.kaggle.com/datasets/mohdshahnawazaadil/sales-prediction-dataset)  
+#### **D) [Sales Prediction Dataset](/Sales-Prediction)** *([Kaggle](https://www.kaggle.com/datasets/mohdshahnawazaadil/sales-prediction-dataset))*  
 
 
