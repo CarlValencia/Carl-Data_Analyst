@@ -1,4 +1,9 @@
-body {
+---
+---
+
+@import "{{ site.theme }}";
+
+body{
   font-family: 'Poppins', sans-serif;
 }
 
