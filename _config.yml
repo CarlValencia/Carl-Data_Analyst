@@ -2,7 +2,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Carl | Data Analyst
-description: | 
-  Transforming data into actionable insights through analysis, visualization, and strategic problem-solving
-  carlharievalencia@gmail.com   +63-920-679-3701  +63-939-673-5325
 show_downloads: true
