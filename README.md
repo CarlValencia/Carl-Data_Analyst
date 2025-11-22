@@ -7,8 +7,12 @@ Excel | PostgreSQL | Power BI
 - [Customer Subscription](#c-customer-subscription-dataset-kaggle) (In progress)    
 - [Sales Prediction](#d-sales-prediction-dataset-kaggle) (In progress)  
   
-
+---
 #### **A. [Global Electronics Retailers Dataset](/GE)** *([Kaggle](https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailers))*  
+
+Remarks:
+  - Scenario: No predefined problem | Explore the Data
+  - Data is about a fictitious Global Electronics Retailer containing information about Customers, Transactions, Stores, Products, and Rates  
 
 1. **Preparation**
 	- Basic Data cleaning/ validation (Excel)  
